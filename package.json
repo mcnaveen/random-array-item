@@ -1,6 +1,6 @@
 {
   "name": "random-array-item",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple utility to fetch a random item from an array",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/mcnaveen/random-array-item/issues"
   },
-  "homepage": "https://github.com/mcnaveen/random-array-item#readme"
+  "homepage": "https://github.com/mcnaveen/random-array-item#readme",
+  "keywords": [
+    "random",
+    "array",
+    "item",
+    "random-array-item",
+    "random-item",
+    "random-item-from-array",
+    "random-item-from-array-js"
+  ]
 }
